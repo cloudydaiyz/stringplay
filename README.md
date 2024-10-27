@@ -1,2 +1,2 @@
-# emaestro
+# stringplay
 Event audience analytics service
