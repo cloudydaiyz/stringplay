@@ -12,8 +12,7 @@
 
 ## Overview
 
-This repository serves as the central hub for the stringplay project (atm). For other relevant repositories, check out the following links:
+This repository serves as the full stack orchectration tool and central hub for the stringplay project. For other relevant repositories, check out the following links:
 
 - [`stringplay-ui`](https://github.com/cloudydaiyz/stringplay-ui) (Frontend)
 - [`stringplay-core`](https://github.com/cloudydaiyz/stringplay-core) (Backend)
-- [`stringplay-cloud`](https://github.com/cloudydaiyz/stringplay-cloud) (Cloud)
