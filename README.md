@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<strong>stringplay</strong> is an event analytics service that collects aggregate membership data from your events, allowing you to effectively track event and membership data. Based on <a href="https://github.com/cloudydaiyz/membership-logger">membership-logger</a>.
+<strong>stringplay</strong> is a data collection service that aggregates attendee information from your online spreadsheets and surveys, allowing you to effectively track event and membership data. Based on <a href="https://github.com/cloudydaiyz/membership-logger">membership-logger</a>.
 </p>
 
 ## Overview
