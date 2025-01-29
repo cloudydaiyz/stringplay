@@ -1,10 +1,10 @@
 {
   "name": "stringplay",
   "version": "1.0.0",
-  "description": "Orchestration tool for the `springplay` project",
+  "description": "Orchestration tool for the `stringplay` project",
   "author": "Kylan Duncan",
   "license": "ISC",
-  "keywords": ["springplay"],
+  "keywords": ["stringplay"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
