@@ -11,11 +11,11 @@ hero:
     alt: stringplay
   actions:
     - theme: brand
-      text: Get Started
+      text: Go to the Docs
       link: /markdown-examples
     - theme: alt
-      text: Additional Resources
-      link: /api-examples
+      text: Live Application
+      link: https://stringplay.cloudydaiyz.com
 
 features:
   - title: Track your audience data

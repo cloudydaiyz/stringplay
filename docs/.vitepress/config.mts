@@ -4,12 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "stringplay",
   description: "Documentation for the stringplay app",
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Documentation', link: '/markdown-examples' }
+      { text: 'Documentation', link: '/introduction/overview' }
     ],
 
     sidebar: [
