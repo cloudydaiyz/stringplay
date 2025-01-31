@@ -5,6 +5,7 @@ export default defineConfig({
   title: "stringplay",
   description: "Documentation for the stringplay app",
   lastUpdated: true,
+  head: [["link", { rel: 'icon', href: '/logo.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
