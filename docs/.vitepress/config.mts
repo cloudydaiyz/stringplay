@@ -15,17 +15,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
-      {
         text: 'Introduction',
         items: [
           { text: 'Overview', link: '/introduction/overview' },
           { text: 'Getting Started', link: '/introduction/getting-started' },
+        ]
+      },
+      {
+        text: 'Your Troupe',
+        items: [
+          { text: 'Troupe', link: '/entities/troupe' },
+          { text: 'Event Log', link: '/entities/event-log' },
+          { text: 'Member Log', link: '/entities/member-log' },
         ]
       }
     ],

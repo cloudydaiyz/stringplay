@@ -11,8 +11,8 @@ hero:
     alt: stringplay
   actions:
     - theme: brand
-      text: Go to the Docs
-      link: /markdown-examples
+      text: Get Started
+      link: /introduction/getting-started
     - theme: alt
       text: Live Application
       link: https://stringplay.cloudydaiyz.com

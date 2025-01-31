@@ -62,3 +62,8 @@ Click on the lightning icon to initiate a manual sync. Now a checkmark should be
 ![](./getting-started/03-getting-started.png)
 
 Once the lightning icon is back next to the Manual Sync header, you should see the results. Go to the Member Log tab to see the data that's been collected for you.
+
+## What's next?
+
+- Start collecting data using the [stringplay console](https://stringplay.cloudydaiyz.com)
+- Read more about [the data types](/entities/troupe) within a Troupe
