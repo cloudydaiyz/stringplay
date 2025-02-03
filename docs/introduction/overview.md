@@ -51,4 +51,4 @@ Note that on regular operations (modifying/creating an event, member, event type
 ## Additional Resources
 
 - [Demo Slides](https://docs.google.com/presentation/d/1ThwBATlb2h9fcxPyhyRvHeaiBNg4U9TRuwCm3ICGHKE/edit?usp=sharing)
-- [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdnHra5UFWGHW-fNdn6nQvekv5km9TkRfKEhTzGPBTfhlgGBQ/viewform?usp=sharing)
+- [Feedback and Suggestions Survey](https://docs.google.com/forms/d/e/1FAIpQLSdnHra5UFWGHW-fNdn6nQvekv5km9TkRfKEhTzGPBTfhlgGBQ/viewform?usp=sharing)
