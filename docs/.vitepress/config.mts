@@ -20,6 +20,7 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/introduction/overview' },
           { text: 'Getting Started', link: '/introduction/getting-started' },
+          { text: 'Troubleshooting', link: '/introduction/troubleshooting' },
         ]
       },
       {
